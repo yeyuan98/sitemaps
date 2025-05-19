@@ -1,0 +1,131 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    
+  <url>
+    <loc>https://adv-r.hadley.nz/index.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/preface.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/introduction.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/foundations-intro.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/names-values.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/vectors-chap.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/subsetting.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/control-flow.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/functions.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/environments.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/conditions.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/fp.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/functionals.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/function-factories.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/function-operators.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/oo.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/base-types.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/s3.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/r6.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/s4.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/oo-tradeoffs.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/metaprogramming.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/meta-big-picture.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/expressions.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/quasiquotation.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/evaluation.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/translation.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/techniques.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/debugging.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/perf-measure.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/perf-improve.html</loc>
+  </url>
+  
+  <url>
+    <loc>https://adv-r.hadley.nz/rcpp.html</loc>
+  </url>
+
+</urlset>
